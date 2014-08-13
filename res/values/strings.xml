@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PullToRefresh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="items">
+        <item name="pluto">Pluto</item>
+        <item name="mars">Mars</item>
+        <item name="earth">Earth</item>
+        <item name="saturn">Saturn</item>
+    </string-array>
+    
+
+</resources>
